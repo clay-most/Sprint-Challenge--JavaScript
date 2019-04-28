@@ -13,9 +13,7 @@ const tyrannosaurus = {
   weight: "7000kg",
   length: "12m",
   period: "Late Cretaceous",
-  roar : () => {
-    return "RAWERSRARARWERSARARARRRR!"
-  }
+  roar: () => "RAWERSRARARWERSARARARRRR!"
 };
 
 // stegosaurus, herbivorous, 2000kg, 9m, Late Jurassic
@@ -34,7 +32,7 @@ const velociraptor = {
   weight: "15kg",
   length: "1.8m",
   period: "Late Cretaceous"
-}
+};
 
 // Using your dinosaur objects, log answers to these questions:
 
